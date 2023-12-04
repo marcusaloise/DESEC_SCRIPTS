@@ -16,7 +16,9 @@
 -ne not equal (diferente) !=
 
 01 - aula inicial 
-02 - estruturas de repetição
-03 - estruturas de repetição
+02 - condições
+03 - condições
 04 - condição
 05 - trabalhando com argumentos
+06 - Trabalhando com Repetições
+scan.sh - Script de varredura de host usando o ping
