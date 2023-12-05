@@ -22,3 +22,6 @@
 05 - trabalhando com argumentos
 06 - Trabalhando com Repetições
 scan.sh - Script de varredura de host usando o ping
+por_scan.sh - Script de varredura de portas abertas no host
+
+
