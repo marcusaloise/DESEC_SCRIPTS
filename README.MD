@@ -25,3 +25,8 @@ Esse repositório serve como um registro organizado e acessível para referênci
 - por_scan.sh: Script para varredura de portas abertas no host
 
 ## Power Shell (Windows)
+
+### Scripts Desenvolvidos Durante as Aulas
+- 01 - Aula inicial, demonstrando vars e input por parametros.
+- 02 - Condições.
+- 03 - Condições utilizando parametros.
