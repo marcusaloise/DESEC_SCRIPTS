@@ -10,3 +10,5 @@ do
 ping -c 1 $1.$host | grep "64 bytes" | cut -d ":" -f 1| cut -d " " -f 4;
 done
 fi
+
+

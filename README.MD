@@ -30,3 +30,6 @@ Esse repositório serve como um registro organizado e acessível para referênci
 - 01 - Aula inicial, demonstrando vars e input por parametros.
 - 02 - Condições.
 - 03 - Condições utilizando parametros.
+- 04 - PortScan.
+- 05 - PortConnection test.
+- 06 - PortConnection II.
